@@ -3,7 +3,7 @@ import random
 from charm.toolbox.pairinggroup import PairingGroup, G1, GT, ZR, pair
 
 # ==========================================
-# CRYPTOGRAPHIC ENGINE (Symmetric SS512)
+# CRYPTOGRAPHIC ENGINE
 # Based on: Identity-based remote data integrity
 # checking with perfect data privacy preserving
 # for cloud storage - Yong Yu et al.
