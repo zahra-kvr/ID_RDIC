@@ -1,6 +1,6 @@
 
 # Identity-Based Remote Data Integrity Checking with Perfect Data Privacy
-> Bachelor's Project Implementation
+> Bachelor's Project Implementation (Revised)
 
 Implementation of the identity-based remote data integrity checking protocol with perfect data privacy preserving for cloud storage, based on the paper by **Yong Yu et al.**
 
